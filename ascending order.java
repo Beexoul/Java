@@ -35,3 +35,16 @@ public class Ascending _Order
         System.out.print(a[n - 1]);
     }
 }
+
+// Output
+// $ javac Ascending _Order.java
+//$ java Ascending _Order 
+//Enter no. of elements you want in array:
+//5
+//Enter all the elements:
+//4
+//3
+//2
+//6
+//1
+//Ascending Order:1,2,3,4,6
